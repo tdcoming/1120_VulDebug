@@ -1,0 +1,7 @@
+/*/target/
+/*/lib/
+/*/patch/
+/.idea
+/*/*lib/
+/*/*patch/
+/*/*.iml
